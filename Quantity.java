@@ -2,7 +2,7 @@ public class Quantity {
 
     public static void main(String[] args) {
 
-        Product product = new Product();
+        Products product = new Products();
 
         System.out.println("Price for a quantity "+ product.getprice());
 
