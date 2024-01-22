@@ -1,3 +1,4 @@
+package array;
 public class SimpleSearch {
 
     public static void main(String[] args) {

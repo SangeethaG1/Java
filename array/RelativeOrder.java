@@ -1,3 +1,4 @@
+package array;
 public class RelativeOrder {
     public static void main(String[] args)
     {
