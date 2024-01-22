@@ -1,3 +1,4 @@
+package loops;
 import java.util.Scanner;
 public class Agetype {
     public static void main(String[] args) {
