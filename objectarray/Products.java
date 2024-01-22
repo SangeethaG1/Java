@@ -1,3 +1,4 @@
+package objectarray;
 public class Products implements Comparable<Products> {
     private double weight;
     private double price;

@@ -1,6 +1,6 @@
+package objectarray;
 import java.util.Arrays;
 import java.util.Comparator;
-
 public class Movie {
     private int yearReleased;
     private double rating;

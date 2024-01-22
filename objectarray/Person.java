@@ -1,3 +1,4 @@
+package objectarray;
 public class Person {
     private double height;
     private double weight;

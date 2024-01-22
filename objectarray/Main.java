@@ -1,4 +1,6 @@
-public class Main {
+package objectarray;
+
+public class Main{
     public static void main(String[] args) {
         Person person1 = new Person(170.0, 70.0, "123-45-6789", "555-1234");
         Person person2 = new Person(165.0, 65.0, "987-65-4321", "555-5678");
