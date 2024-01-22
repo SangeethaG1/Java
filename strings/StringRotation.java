@@ -1,4 +1,4 @@
-package Strings;
+package strings;
 public class StringRotation{
     public static void main(String[] args) {
         String str1 = "JavaJ2eeStrutsHibernate";
