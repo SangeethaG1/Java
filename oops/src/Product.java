@@ -1,3 +1,4 @@
+package oops.src;
 public class Product {
     private double price= 2.4;
     public double getprice(){

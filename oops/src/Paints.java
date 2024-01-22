@@ -1,3 +1,4 @@
+package oops.src;
 public class Paints {
 
     public static void main(String[] args) {

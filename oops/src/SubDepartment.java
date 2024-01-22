@@ -1,3 +1,4 @@
+package oops.src;
 public class SubDepartment extends Department {
     @Override
     int getDepartmentSize()

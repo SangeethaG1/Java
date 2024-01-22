@@ -1,3 +1,4 @@
+package oops.src;
 public abstract class Department {
     abstract int getDepartmentSize();
 
