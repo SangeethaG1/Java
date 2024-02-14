@@ -3,6 +3,11 @@ package arraylists;
 import java.util.ArrayList;
 
 public class ArrayListToArray {
+    public static String[] convertToArray(ArrayList<String> stringList) {
+        // Converting ArrayList to Array
+        String[] stringArray = new String[stringList.size()];
+        return stringList.toArray(stringArray);
+    }
     public static void main(String[] args) {
         // Creating an ArrayList of Strings
         ArrayList<String> stringList = new ArrayList<>();
