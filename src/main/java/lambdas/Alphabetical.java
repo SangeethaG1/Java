@@ -1,7 +1,7 @@
 package lambdas;
 import java.util.Arrays;
 
-public class alphabetical {
+public class Alphabetical {
 
     public String[] capitalizeAndSort(String[] inputArray) {
         return Arrays.stream(inputArray)
